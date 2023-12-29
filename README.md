@@ -1,6 +1,6 @@
 ### Hi there 👋
-### 기술 블로그 https://bloomingwhale.tistory.com/
-### email bloomingwhale1510@gmail.com
+## Blog   https://bloomingwhale.tistory.com/
+## Email  bloomingwhale1510@gmail.com
 
 <!--
 **whale1510/whale1510** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
