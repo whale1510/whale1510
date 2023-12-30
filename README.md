@@ -1,4 +1,5 @@
 ## Hi there 👋
+## 주니어 개발자 / AI, 데이터분석, 백엔드
 ### Blog   https://bloomingwhale.tistory.com/
 ### Email  bloomingwhale1510@gmail.com
 
