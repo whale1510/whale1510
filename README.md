@@ -3,6 +3,7 @@
 ### Blog   https://bloomingwhale.tistory.com/
 ### Email  bloomingwhale1510@gmail.com
 
+#포트폴리오는 레포지토리 폴더 안에 업로드되어있습니다.
 <!--
 **whale1510/whale1510** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
